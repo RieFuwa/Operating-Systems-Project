@@ -31,7 +31,7 @@ void olaylari_cagir(int SECIM){
 
 int main(){
     srand (time(NULL));
-    const int OLAY_SAYISI = 5;
+    const int OLAY_SAYISI = 7;
     int OLAYLAR[OLAY_SAYISI];
 
     for(int i=0; i<OLAY_SAYISI; i++){
